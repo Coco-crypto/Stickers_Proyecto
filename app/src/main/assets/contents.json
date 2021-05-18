@@ -1,0 +1,62 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "Motivacion",
+      "name": "Motivacion",
+      "publisher": "Jair Junior Valdez Teran",
+      "tray_image_file": "icono.png",
+      "image_data_version": "Motivacion",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "mo4.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "siete.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "ocho.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "nueve.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "diez.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },{
+          "image_file": "once.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        }
+      ]
+    }
+
+  ]
+}
